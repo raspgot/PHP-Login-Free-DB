@@ -28,7 +28,7 @@ Simple, sans base de données.
 
 ## Démo
 
-[Juste ici !](https://vps.raspgot.fr/_loginDbFree)
+[Juste ici !](https://dev.raspgot.fr/loginDbFree)
 
 ```
 Username: admin
